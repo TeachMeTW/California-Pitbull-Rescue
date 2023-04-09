@@ -18,3 +18,4 @@
     
   - Developers:
     - Yo Mamaa
+    - Khashayar Moradpour
