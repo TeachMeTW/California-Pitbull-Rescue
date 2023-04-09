@@ -22,5 +22,6 @@
   - Developers:
     - Khashayar Moradpour
     - Nicholas Y.
+    - Sebastian Silva
 
  
