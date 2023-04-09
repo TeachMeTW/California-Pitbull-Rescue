@@ -1,4 +1,6 @@
-# California-Pitbull-Rescue
+# California Pitbull Rescue
+
+## About
 
 ## Team:
   - Leads:
