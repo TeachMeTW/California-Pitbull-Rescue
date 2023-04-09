@@ -12,7 +12,7 @@
   - Leads:
     - | Nicholas Chan |
       | ------------- |
-      |![335481716_153815764224394_2894516254199597070_n](https://user-images.githubusercontent.com/80879010/230799426-1e53625e-3933-44bb-ab87-38abab18baf1.jpg)|
+      |<img src = "https://user-images.githubusercontent.com/80879010/230799426-1e53625e-3933-44bb-ab87-38abab18baf1.jpg" width="48">|
       
     - Robin Simpson
     
