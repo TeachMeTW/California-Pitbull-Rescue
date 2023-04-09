@@ -1,6 +1,8 @@
 # California Pitbull Rescue
 
 ## About
+  - ### Features:
+  
 
 ## Team:
   - Leads:
