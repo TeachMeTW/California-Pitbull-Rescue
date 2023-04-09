@@ -20,7 +20,6 @@
     
     
   - Developers:
-    - Yo Mamaa
     - Khashayar Moradpour
     - Nicholas Y.
 
